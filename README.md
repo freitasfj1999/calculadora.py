@@ -34,6 +34,7 @@ Execute o código no terminal:
 python calculadora.py
 
 📁 Estrutura
+
 O código é organizado com funções separadas para cada operação, facilitando a leitura e manutenção. Também foi implementado um loop principal para permitir múltiplas operações até o usuário decidir encerrar.
 
 💡 Exemplo de uso
