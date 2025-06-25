@@ -38,13 +38,20 @@ python calculadora.py
 O código é organizado com funções separadas para cada operação, facilitando a leitura e manutenção. Também foi implementado um loop principal para permitir múltiplas operações até o usuário decidir encerrar.
 
 💡 Exemplo de uso
+
 Qual o seu nome? João
+
 Digite o primeiro número: 100
+
 Digite o sinal da operação (+, -, *, /, %): %
+
 Digite o segundo número: 10
+
 Resultado da operação: 10.0
 
+
 Deseja fazer outra operação? (s/n): n
+
 Obrigado por usar a calculadora, João! Até a próxima.
 
 📚 Requisitos
