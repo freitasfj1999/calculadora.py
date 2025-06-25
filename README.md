@@ -1,4 +1,4 @@
-🧮 Calculadora em Python — Projeto EBAC
+🧮 Calculadora em Python
 Este é um projeto simples de uma calculadora de terminal desenvolvida em Python, com funcionalidades básicas de operações matemáticas. O código foi criado como parte de um exercício para prática da linguagem.
 
 ✅ Funcionalidades
